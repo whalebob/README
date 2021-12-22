@@ -50,4 +50,4 @@ print(test)
 
 이미지 올리기
 
-![이미지](http://https://https://ifh.cc/g/tRzntF.jpg)
+![이미지](http://ifh.cc/g/tRzntF.jpg)
